@@ -1,0 +1,36 @@
+0771 -- Explosive Mfg 
+4452 -- Biomedical Research Laboratories
+4511 -- Analytical/Testing Laboratories
+4771 -- Rocket Propellant Mfg 
+5022 -- Ceiling Installation
+5191 -- Office Machine Installation/Repair 
+5200 -- Concrete/Cement Work–sidewalks
+5213 -- Concrete Construction
+5403 -- Carpentry–low wage
+5433 -- Carpentry–high wage
+5606 -- Contractors–executive level supervisors
+6219 -- Land Leveling–farm landse 
+6233 -- Oil/Gas Pipeline Construction 
+6319 -- Gas Mains Construction
+7133 -- Boat Building/Repairing
+7333 -- Ambulance Services
+7610 -- Radio/Television/Commercial Stations
+8001 -- Store—Florist & Drivers
+8002 -- Automobile—Rental Co.—All Other Employees & Counter Personnel, Drivers
+8006 -- Convenience Store
+8107 -- Machinery Dealers
+8742 -- Real Estate Agencies 
+8803 -- Auditors/Accountants
+8809 -- Banks
+8810 -- Clerical Office Employees NOC
+8820 -- Court Reporters—For Law Firms & Messengers, Clerical, Drivers
+8832 -- Hospitals–veterinary
+8833 -- Institutional Employees
+9040 -- Boy/Girl Scout Councils
+9105 -- Colleges/Schools
+9549 --Advertising Companies
+9552 -- Sign Erection/Repair
+9586 -- Barber Shops/Hair Styling
+9610 -- Motion Pictures–production
+9620 -- Funeral Directors
+9898 -- House Furnishings 
